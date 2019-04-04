@@ -1,0 +1,15 @@
+2019-03-30 00:33:25 [main] INFO  Base:25 - Driver is initialized
+2019-03-30 00:33:47 [main] INFO  Base:27 - Navigated to Homepage
+2019-03-30 00:34:01 [main] INFO  Base:40 - successfully clicked on testing tab
+2019-03-30 00:34:01 [main] INFO  Base:42 - successfully clicked on Web tab
+2019-03-30 00:34:01 [main] INFO  Base:44 - Text
+2019-03-30 00:34:28 [main] INFO  Base:46 - successfully clicked on search tab
+2019-03-30 00:35:32 [main] INFO  Base:25 - Driver is initialized
+2019-03-30 00:35:41 [main] INFO  Base:27 - Navigated to Homepage
+2019-03-30 00:35:49 [main] INFO  Base:22 - Driver is initialized
+2019-03-30 00:36:06 [main] INFO  Base:24 - Navigated to Homepage
+2019-03-30 00:36:08 [main] INFO  Base:34 - successfully validated text message
+2019-03-30 00:36:15 [main] INFO  Base:40 - successfully clicked on testing tab
+2019-03-30 00:36:15 [main] INFO  Base:42 - successfully clicked on Web tab
+2019-03-30 00:36:16 [main] INFO  Base:44 - Text
+2019-03-30 00:36:45 [main] INFO  Base:46 - successfully clicked on search tab
